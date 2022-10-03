@@ -1,0 +1,13 @@
+
+.header{
+    background-color: purple;
+    padding: 20px;
+}
+.header a{
+    text-decoration: none;
+    margin-right: 12px;
+    background-color: steelblue;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 5px;
+}

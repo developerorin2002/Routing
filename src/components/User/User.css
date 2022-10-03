@@ -1,0 +1,11 @@
+.user{
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+}
+.user > button{
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: purple;
+    border-radius: 2px;
+}
